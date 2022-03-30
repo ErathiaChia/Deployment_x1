@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ErathiaChia/Deployment_x1/static/css/main.073c9b0a.css",
-    "main.js": "/ErathiaChia/Deployment_x1/static/js/main.225afaaa.js",
-    "static/js/787.5bca0434.chunk.js": "/ErathiaChia/Deployment_x1/static/js/787.5bca0434.chunk.js",
-    "static/media/logo.svg": "/ErathiaChia/Deployment_x1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ErathiaChia/Deployment_x1/index.html",
-    "main.073c9b0a.css.map": "/ErathiaChia/Deployment_x1/static/css/main.073c9b0a.css.map",
-    "main.225afaaa.js.map": "/ErathiaChia/Deployment_x1/static/js/main.225afaaa.js.map",
-    "787.5bca0434.chunk.js.map": "/ErathiaChia/Deployment_x1/static/js/787.5bca0434.chunk.js.map"
+    "main.css": "/Deployment_x1/static/css/main.073c9b0a.css",
+    "main.js": "/Deployment_x1/static/js/main.1c0ca727.js",
+    "static/js/787.5bca0434.chunk.js": "/Deployment_x1/static/js/787.5bca0434.chunk.js",
+    "static/media/logo.svg": "/Deployment_x1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Deployment_x1/index.html",
+    "main.073c9b0a.css.map": "/Deployment_x1/static/css/main.073c9b0a.css.map",
+    "main.1c0ca727.js.map": "/Deployment_x1/static/js/main.1c0ca727.js.map",
+    "787.5bca0434.chunk.js.map": "/Deployment_x1/static/js/787.5bca0434.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.225afaaa.js"
+    "static/js/main.1c0ca727.js"
   ]
 }
